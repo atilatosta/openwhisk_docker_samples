@@ -1,0 +1,15 @@
+{
+  "name": "docker_web_app",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Atila Tosta",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "4.16.1",
+    "body-parser": "^1.11.0",
+    "watson-developer-cloud": "3.0.3"
+  }
+}
