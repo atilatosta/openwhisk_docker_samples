@@ -14,7 +14,8 @@ What things you need and how to install them:
 * [Docker Hub Account](https://hub.docker.com/) - Docker Hub is a cloud-based registry service which allows you to link to code repositories
 * [NodeJS](https://nodejs.org/en/download/) - An asynchronous event driven JavaScript runtime
 * [Python 3.6](https://www.python.org/downloads/) - Python is an interpreted, object-oriented and high-level programming language
-* [Cloudfoundry CLI](https://docs.cloudfoundry.org/cf-cli/install-go-cli.html) - Cloud Foundry CLI is the official command line client for Cloud Foundry
+* [IBM Cloud CLI](https://console.bluemix.net/docs/cli/reference/bluemix_cli/download_cli.html#download_install) - IBM Cloud CLI provides the command line interface to manage applications, containers, infrastructures, services and other resources in IBM Cloud.
+* [Cloud Functions CLI](https://console.bluemix.net/docs/openwhisk/bluemix_cli.html#cloudfunctions_cli) - Cloud Functions offers a powerful plug-in for the IBM Cloud CLI that allows complete management of the Cloud Functions system.
 
 ## Creating the Actions in IBM Cloud Functions
 
